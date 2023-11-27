@@ -1,2 +1,2 @@
 # power-laws
-A Jupyter notebook of "power laws meets the secretary problem"
+A Jupyter notebook of "the secretary problem meets power laws"
